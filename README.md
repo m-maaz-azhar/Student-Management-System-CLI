@@ -12,7 +12,7 @@ This project is a simple command-line / console based Student Management System.
 > Importing : import csv
 
 * tabulate: Pretty-print tabular data in Python, a library and a command-line utility.
-> Installation : pip install tabulate
+> Installation : pip install tabulate  
 > Importing : from tabulate import tabulate
 
 ## Features
