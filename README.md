@@ -8,7 +8,7 @@ This project is a simple command-line / console based Student Management System.
 	
 ## Modules-Used
 * csv: csv module is a built-in module that allows Python to parse CSV files.  
-> Installation : 'csv' is an in-built package. So you dont have to install it again.
+> Installation : 'csv' is an in-built package. So you dont have to install it again.  
 > Importing : import csv
 
 * tabulate: Pretty-print tabular data in Python, a library and a command-line utility.
